@@ -13,7 +13,6 @@
 ## 🏆 Certificações
 
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/EXIN-ISFS%20ISO%2FIEC%2027001-blue?style=for-the-badge"/>
 
 
