@@ -6,14 +6,16 @@
 📚 Certificado CompTIA Security+ e EXIN Information Security Foundation based on ISO/IEC 27001
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandojuniorsgomes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandojrgomes21/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandojrgomes21@gmail.com)
 
 ---
 ## 🏆 Certificações
 
 <div align="center">
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white"/>
+<img src="https://www.credly.com/badges/f2022624-e90e-4e27-b775-5330e881573c/public_url"/>
+  
 <img src="https://img.shields.io/badge/EXIN-ISFS%20ISO%2FIEC%2027001-blue?style=for-the-badge"/>
 
 </div>
@@ -39,6 +41,7 @@
 </div>
 
 ---
+
 ## 📊 Estatísticas GitHub
 <div align="center">
 
@@ -66,5 +69,7 @@
 ---
 ## 💡 Atualmente
 🔭 Estudando e desenvolvendo projetos voltados para Cyber Threat Intelligence.
+
 🛡️ Trabalhando como Analista de Threat Intelligence Jr.
+
 📈 Em constante aprendizado.
