@@ -14,8 +14,9 @@
 ## 🏆 Certificações
 
 <div align="center">
-<img src="https://www.credly.com/badges/f2022624-e90e-4e27-b775-5330e881573c/public_url"/>
-  
+
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/EXIN-ISFS%20ISO%2FIEC%2027001-blue?style=for-the-badge"/>
 
 </div>
@@ -28,11 +29,7 @@
 
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
 <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<img align="center" alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 
 <img align="center" alt="MISP" src="https://img.shields.io/badge/MISP-Threat%20Intelligence-red?style=for-the-badge" />
 
