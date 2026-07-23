@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Fernando Junior
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Analista+de+Threat+Intelligence;Cyber+Threat+Intelligence+%7C+OSINT;Threat+Hunting+%7C+Hacking;Sempre+aprendendo+%F0%9F%94%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Analista+de+Threat+Intelligence;Cyber+Threat+Intelligence+%7C+OSINT;Threat+Hunting+%7C+Hacking;MISP+%F0%9F%94%92)](https://git.io/typing-svg)
 
 </div>
 
