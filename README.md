@@ -65,5 +65,5 @@
 ## 💡 Atualmente
 
 🔭 Estudando e desenvolvendo projetos voltados para Cyber Threat Intelligence e Hacking.  
-🛡️ Trabalhando como Analista de Threat Intelligence Jr.  
+🛡️ Trabalhando como Analista de Threat Intelligence.  
 📈 Em constante aprendizado.
